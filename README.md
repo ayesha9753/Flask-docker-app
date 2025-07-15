@@ -26,9 +26,12 @@ flask-docker-app/
 ## 🚀 Run Locally with Docker Compose
 
 ``bash
-git clone https://github.com/ayesha9753/flask-docker-app.git
+git clone [https://github.com/ayesha9753/Flask-docker-app]
+
 cd flask-docker-app
+
 docker-compose up --build
+
 Visit: http://localhost:5000
 
 🛠 Built With
